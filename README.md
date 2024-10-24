@@ -49,6 +49,7 @@
   <a href="https://www.kaggle.com/pegatron" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F163e0f27360ae958da99dde2a68f7e00%2FBadge-46.svg?generation=1727468408101916&alt=media" alt="1 Year in Kaggle"/></a>
   <a href="https://www.kaggle.com/pegatron" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F45be693e46c3d59a48e65f903aad246b%2FBadge-5.svg?generation=1727462562515977&alt=media" alt="Playground Competitor"/></a>
   <a href="https://www.kaggle.com/pegatron" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" alt="Python Coder"/></a>
+  <a href="https://www.kaggle.com/pegatron" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" alt="Code Forker"/></a>
 </p>
 
 <h3 align="left">Certification Badges:</h3>
