@@ -51,6 +51,15 @@
   <a href="https://www.kaggle.com/pegatron" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" alt="Python Coder"/></a>
 </p>
 
+<h3 align="left">Certification Badges:</h3>
+<p align="left">
+  <a href="https://images.credly.com/images/b40db465-587f-45eb-a854-af8630a630e7/blob" target="_blank"><img src="https://github.com/user-attachments/assets/a01568b2-2b69-4358-8c10-7bb6901573d4" alt="Python"  width="50" height="50"/></a>
+  <a href="https://images.credly.com/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob" target="_blank"><img src="https://github.com/user-attachments/assets/f553370b-2441-4f1d-9168-1201851d7729" alt="Hadoop"  width="50" height="50"/></a>
+  <a href="https://images.credly.com/images/06cb0d8e-06f7-4f5e-9265-359e37008fcd/blob" target="_blank"><img src="https://github.com/user-attachments/assets/5ef980fe-687d-4d44-871a-3c845f5a08ba" alt="Spark"  width="50" height="50"/></a>
+  <a href="https://images.credly.com/images/b0c5445a-72a2-46ce-a599-96147e210efb/blob" target="_blank"><img src="https://github.com/user-attachments/assets/e21d64af-c118-4032-ab47-a52dadf67b06" alt="Docker Essentials"  width="50" height="50"/></a>
+  <a href="https://www.credly.com/badges/1120beb2-d3c7-4838-8de1-b239fec8bb59/print" target="_blank"><img src="https://github.com/user-attachments/assets/6089e680-213e-4060-b290-5b48cc5c5f01" alt="Data Analytics"  width="50" height="50"/></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikash1002&show_icons=true&locale=en&layout=compact" alt="bikash1002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikash1002&show_icons=true&locale=en" alt="bikash1002" /></p>
