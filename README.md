@@ -51,6 +51,8 @@
   <a href="https://www.kaggle.com/pegatron" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" alt="Python Coder"/></a>
   <a href="https://www.kaggle.com/pegatron" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" alt="Code Forker"/></a>
   <a href="https://www.kaggle.com/pegatron" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F06808571894d065a64243d6ba468be2b%2FBadge-4.svg?generation=1727462524641424&alt=media" alt="Community Competitor"/></a>
+  <a href="https://www.kaggle.com/pegatron" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F28e0e70842ce6972f4d68f5b6ecd549a%2FBadge-12.svg?generation=1727462988946700&alt=media" alt="Dataset Creator"/></a>
+  <a href="https://www.kaggle.com/pegatron" target="_blank"><img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbac00bdcf5aa52c077bef4d95da882f3%2FBadge-37.svg?generation=1727468352009252&alt=media" alt="Learner"/></a>
 </p>
 
 <h3 align="left">Certification Badges:</h3>
