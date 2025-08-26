@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/user-attachments/assets/6b591a18-1148-4e50-bb70-5721bc9ff2fa)
 
 <h1 align="center">BIKASH CHANDRA SAHOO</h1>
-<h3 align="center">Aspiring Data Analyst and Data Scientist | Passionate about data driven technologies.</h3>
+<h3 align="center">Aspiring Data Scientist | Enjoy data driven technologies.</h3>
 <!-- <img align = "right" alt="Coding" width="400" src=""> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikash1002&label=Profile%20views&color=0e75b6&style=flat" alt="bikash1002" /> </p>
