@@ -65,16 +65,8 @@ Django, MongoDB, MySQL, Hadoop, Docker, Kubernetes(Learning), Linux
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikash1002&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bikash1002&show_icons=true&locale=en" alt="github stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikash1002&" alt="streak stats" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bikash1002&theme=default&hide_border=true" />
 </p>
 
 ---
