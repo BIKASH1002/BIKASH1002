@@ -3,10 +3,6 @@
 <h1 align="center">BIKASH CHANDRA SAHOO</h1>
 <h3 align="center">Data Science Postgraduate | AI & ML Enthusiast | Building Real-World Intelligent Systems</h3>
 
-<p align="center">
-I build intelligent systems that solve real-world problems using Machine Learning, Data Analysis, and Backend Engineering.
-</p>
-
 ---
 
 ## 👨‍💻 About Me
