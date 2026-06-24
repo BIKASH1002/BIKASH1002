@@ -99,4 +99,4 @@ I am actively looking for opportunities in:
 - AI Engineering  
 - Backend Development  
 
-If you’re working on something exciting or hiring, let’s connect!
+If you are working on something exciting or hiring, let’s connect!
