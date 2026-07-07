@@ -17,7 +17,10 @@
 
 I am a Data Science postgraduate with a strong interest in building real-world AI solutions. My work focuses on Machine Learning, NLP, and scalable systems.
 
-Currently exploring and building:
+Currently exploring:
+- Databricks
+
+Currently building:
 - AI systems & LLM-based applications  
 - Backend integration for ML models  
    
